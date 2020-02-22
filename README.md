@@ -49,6 +49,9 @@ F/F 在电子书上
 
 对半导体的原理理解中。
 
+## Someday
+
+I finally find a interesting personal who want to play with me with IC/555
 
 # 问题
 ## breadboard 的结构是什么？
