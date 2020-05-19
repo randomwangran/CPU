@@ -4,7 +4,6 @@
 	<a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/GNU%20Emacs-27.0.50-b48ead.svg?style=flat-square"/></a>
 
 </p>
-<p align="center">"The first principle is that you must not fool
-yourself—and you are the easiest person to fool." - R.P. Feynman</p>
+<p align="center">""致虚极，守静笃；万物并作，吾以观复。夫物芸芸，各复归其根。归根曰静，静曰复命。复命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃全，全乃天，天乃道，道乃久，没身不殆。" - 第十六章 <<道德经>></p>
 
 ---
