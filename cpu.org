@@ -1,0 +1,13 @@
+* clock module
+** Goal
+- build a time counter?
+- one can control how fast it flush?
+** stuff
+- IC 555
+** log
+*** <2020-05-20 Wed>
+Five months in, zero progress in physical assemble. Gradually picking
+up the peace. Slowly but surely.
+
+First thing I know is that we have a frequency producer from
+electricity. How can I transfer it to a controllable sparking stars?
