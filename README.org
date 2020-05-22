@@ -12,6 +12,9 @@ up the peace. Slowly but surely.
 First thing I know is that we have a frequency producer from
 electricity. How can I transfer it to a controllable sparking stars?
 *** <2020-05-20 Wed> reading how the circus works.
+    :PROPERTIES:
+    :ID:       8d4ab0c0-7a9d-4f89-9ede-40be9a81ea15
+    :END:
 [[file:FIG/nature.png]]
 
 Nature is continues, human make white and black.
@@ -22,4 +25,10 @@ has a periodic feature between points (two of 7,6,2). And the rules
 say that if the detected voltage is higher, then the output is 1;
 otherwise 0.
 
-The next question is why not just use AC?
+** question
+*** DONE Can we use AC to make the square output?
+It's okay, but the problem is that we need to build a "black box" that
+is able to change it's frequency, i.e., how fast the stars blinking.
+
+The beauty of using IC555 is that one can change resistance of
+resistor to change the blinking frequency.
