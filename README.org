@@ -38,7 +38,7 @@ Today, I start to build the real thing. I took the wire from a old
 mouse, connecting it with the 5 DC voltage convert in such a way that
 I don't feel very comfortable.
 
-file:FIG/ini-5-voltage-in.png
+[[file:FIG/ini-5-voltage-in.png]]
 
 
 
