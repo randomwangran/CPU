@@ -39,10 +39,21 @@ mouse, connecting it with the 5 DC voltage convert in such a way that
 I don't feel very comfortable.
 
 [[file:FIG/ini-5-voltage-in.png]]
+*** HOLD <2020-05-27 Wed> flush the LED
+    CLOSED: [2020-05-27 Wed 23:45]
+    :LOGBOOK:
+    - State "HOLD"       from              [2020-05-27 Wed 23:45] \\
+      [real] make LED sparking
+    CLOCK: [2020-05-27 Wed 22:23]--[2020-05-27 Wed 23:45] =>  1:22
+    :END:
+- video on youtube: https://www.youtube.com/watch?v=8nzgkSlCKlo
+Follow Ben's watch was easy. I do have issue to understand how the
+breadboard's connection at first. I miss understand the wires
+parallel connected to the 1k resistor and capacitor short the circuit.
+It did not.
 
-
-
-
+- video on youtube: https://www.youtube.com/watch?v=oFcDTblaUVs
+After Ben's connection, I made my own version.
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
