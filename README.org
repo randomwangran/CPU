@@ -42,6 +42,7 @@ It did not.
 
 - video on youtube: https://www.youtube.com/watch?v=oFcDTblaUVs
 After Ben's connection, I made my own version.
+*** <2020-05-30 Sat> read internal diagram of IC555
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
@@ -49,3 +50,4 @@ is able to change it's frequency, i.e., how fast the stars blinking.
 
 The beauty of using IC555 is that one can change resistance of
 resistor to change the blinking frequency.
+*** TODO Explain the role of bipolar junction transistor's role in IC555.
