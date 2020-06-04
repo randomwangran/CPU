@@ -11,7 +11,7 @@ up the peace. Slowly but surely.
 
 First thing I know is that we have a frequency producer from
 electricity. How can I transfer it to a controllable sparking stars?
-*** <2020-05-20 Wed> reading how the circus works.
+*** <2020-05-20 Wed> reading how the circuit works.
     :PROPERTIES:
     :ID:       8d4ab0c0-7a9d-4f89-9ede-40be9a81ea15
     :END:
@@ -43,6 +43,10 @@ It did not.
 - video on youtube: https://www.youtube.com/watch?v=oFcDTblaUVs
 After Ben's connection, I made my own version.
 *** <2020-05-30 Sat> read internal diagram of IC555
+*** <2020-06-03 Wed> improve the voltage source connector and reading some about circuit
+- start to learn common emitter (CE), common collector (CC), and
+  common base (CB)
+- start to read RS FF within transistor
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
