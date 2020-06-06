@@ -47,6 +47,7 @@ After Ben's connection, I made my own version.
 - start to learn common emitter (CE), common collector (CC), and
   common base (CB)
 - start to read RS FF within transistor
+*** <2020-06-05 Fri> understand the role of NPN in IC555
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
@@ -54,4 +55,13 @@ is able to change it's frequency, i.e., how fast the stars blinking.
 
 The beauty of using IC555 is that one can change resistance of
 resistor to change the blinking frequency.
-*** TODO Explain the role of bipolar junction transistor's role in IC555.
+*** DONE When 555 working, what is the role of npn transistor that is connected to Q?
+
+    (or Explain the role of bipolar junction transistor's role in IC555.)
+
+    If there is zero voltage between Base and Emitter, no matter how
+    high (smaller than breakdown voltage) the voltage between the
+    Collector and Emitter, there is almost zero current in collector.
+
+    If the Q is on, the NPN transistor is in active region. The
+    current between the Collector and Emitter exist.
