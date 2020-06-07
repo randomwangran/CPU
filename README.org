@@ -48,6 +48,19 @@ After Ben's connection, I made my own version.
   common base (CB)
 - start to read RS FF within transistor
 *** <2020-06-05 Fri> understand the role of NPN in IC555
+*** <2020-06-06 Sat> install adjustable blinking frequency controller
+I had an issue for choosing the right resistor between 555's pin-7 and
+pin-6. Previous to this point, I installed an 1 M Ohm and I found a
+equal blinking frequency. However, the teacher has a 100k Ohm
+resistor, which I do not have.
+
+I did a test using a 220 Ohm resistor and I found the LED stayed on
+but not blinking. Then I check the document and found the relation
+between t1 and t2. It can have a relation as t1/t2= 1 + R_A + R_B.
+This indicates that if R_B is much greater than R_A, then the gap
+between LED on and off should equal. This was what happen when I
+installed a 1 M Ohm resistor in between 555' pin-6 and pin-7.
+
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
