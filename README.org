@@ -60,7 +60,14 @@ between t1 and t2. It can have a relation as t1/t2= 1 + R_A + R_B.
 This indicates that if R_B is much greater than R_A, then the gap
 between LED on and off should equal. This was what happen when I
 installed a 1 M Ohm resistor in between 555' pin-6 and pin-7.
+*** <2020-06-07 Sun> build monostable clock
+The monostable clock means that you push the button, the LED flushes;
+released closed. It took me a while to find the bad connection in
+momentary pushbutton.
 
+As I march on the third clock, I did not make it successfully. The
+slide switch is different from the teacher's circuit. I need to
+further study how to tweak SR latch to make this final clock.
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
