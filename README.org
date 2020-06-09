@@ -68,6 +68,19 @@ momentary pushbutton.
 As I march on the third clock, I did not make it successfully. The
 slide switch is different from the teacher's circuit. I need to
 further study how to tweak SR latch to make this final clock.
+*** <2020-06-08 Mon> debug monostable clock
+I checked the circuit many times yesterday and today, and I could not
+make the monostable clock flushing. I even test the slide switch to
+make sure the relation between three pins. I also replaced the IC555
+with flushing clock module, and still don't know why the LED stayed
+died.
+
+Amazing things happen, during switching these LEDs to make sure they
+are still functioning. One time, when I install the LED, the LED start
+to live and stay that state! I suddenly realize that LED is short for
+Light-Emitting diodes. It's a diode. It must be installed in the
+correct direction. Then, I reverse all other LEDs to test it. It is
+true. How lucky I was, when do know this feature of LED.
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
