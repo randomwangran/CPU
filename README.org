@@ -81,6 +81,18 @@ to live and stay that state! I suddenly realize that LED is short for
 Light-Emitting diodes. It's a diode. It must be installed in the
 correct direction. Then, I reverse all other LEDs to test it. It is
 true. How lucky I was, when do know this feature of LED.
+*** <2020-06-09 Tue> finish time module
+- Auto mode: https://youtu.be/XRqyO3dbzqk
+- Manual control mode: https://youtu.be/s8hCcCtMwFw
+
+Made the time module as a whole package. From a function
+point of view, the inputs are:
+
+- slide switch: control which mode the user wants
+- a button: if the user wants manual control, it is another input that
+  the user gives to the function
+
+Out put is the blue LEDs. To more precise, how LED flushes.
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
