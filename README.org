@@ -93,6 +93,23 @@ point of view, the inputs are:
   the user gives to the function
 
 Out put is the blue LEDs. To more precise, how LED flushes.
+*** <2020-06-10 Wed> review a bit of memory and register
+- a bit of memory
+
+  One bit of memory is built by four NAND gates, these four gates
+  create a function that has two inputs and one output.
+
+  Suppose one time period, one can turn on and off the set wire of this
+  function. During this time period, one can connect another function to
+  this function. After this time period, the output of this function
+  is alway set the state that is the same as another function.
+
+  That's how four NAND gates remember things.
+
+- register
+
+  It's a combination of Byte and an Enabler.
+
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
