@@ -110,6 +110,14 @@ Out put is the blue LEDs. To more precise, how LED flushes.
 
   It's a combination of Byte and an Enabler.
 
+
+*** <2020-06-12 Fri> review bus, decoder, RAM
+Bus is "buss". No, just wires. Decoder is to show all the possible
+combination of the given bits. A 256 bytes memory need 257 register.
+The extra one, which is called MAR, is to store the location of RAM.
+
+what's difference between "static" and "dynamic" RAM?
+
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
