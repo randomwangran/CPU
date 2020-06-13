@@ -118,6 +118,8 @@ The extra one, which is called MAR, is to store the location of RAM.
 
 what's difference between "static" and "dynamic" RAM?
 
+*** <2020-06-13 Sat> read [[https://www.internalpointers.com/post/introduction-virtual-memory][article]]
+
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
