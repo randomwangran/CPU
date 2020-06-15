@@ -120,6 +120,31 @@ what's difference between "static" and "dynamic" RAM?
 
 *** <2020-06-13 Sat> read [[https://www.internalpointers.com/post/introduction-virtual-memory][article]]
 
+*** <2020-06-15 Mon> planing further reading
+
+    From
+    https://www.internalpointers.com/post/introduction-virtual-memory
+
+ - [ ] Computer Hope — Memory
+ - [ ] Peter J. Denning — Before memory was virtual
+ - [ ] Android Authority — What is virtual memory?
+ - [ ] Kernel.org — Memory Management
+ - [ ] Operating Systems: Three Easy Pieces — Chapter 18: Paging
+ - [ ] Philippe's Oppermann — Introduction to Paging
+ - [ ] Computer Science from the Bottom Up — Chapter 6. Virtual Memory
+ - [ ] Dr. John T. Bell — Operating systems, Virtual Memory
+ - [ ] StackOverflow — Do modern OS's use paging and segmentation?
+ - [ ] StackOverflow — What is thrashing? Why does it occur?
+ - [ ] Wikipedia — Memory address
+ - [ ] Wikipedia — Paging
+ - [ ] Wikipedia — Address space
+ - [ ] Wikipedia — Virtual memory
+ - [ ] Wikipedia — Virtual address space
+ - [ ] Wikipedia — Thrashing
+ - [ ] Wikipedia — Segmentation fault
+ - [ ] ITPro Today — Paging Performance
+ - [ ] Aleph One — Smashing The Stack For Fun And Profit
+
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
