@@ -121,7 +121,8 @@ what's difference between "static" and "dynamic" RAM?
 *** <2020-06-13 Sat> read [[https://www.internalpointers.com/post/introduction-virtual-memory][article]]
 
 *** <2020-06-15 Mon> planing further reading
-
+*** <2020-06-16 Tue> reading
+*** <2020-06-17 Wed> reading
     From
     https://www.internalpointers.com/post/introduction-virtual-memory
 
