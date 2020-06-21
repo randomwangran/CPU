@@ -124,28 +124,29 @@ what's difference between "static" and "dynamic" RAM?
 *** <2020-06-16 Tue> reading
 *** <2020-06-17 Wed> reading
 *** <2020-06-18 Thu> reading
+*** <2020-06-20 Sat> reading
     From
     https://www.internalpointers.com/post/introduction-virtual-memory
 
- - [ ] Computer Hope — Memory
+ - [X] Computer Hope — Memory
  - [X] Peter J. Denning — Before memory was virtual
- - [ ] Android Authority — What is virtual memory?
+ - [X] Android Authority — What is virtual memory?
  - [X] Kernel.org — Memory Management
- - [ ] Operating Systems: Three Easy Pieces — Chapter 18: Paging
- - [ ] Philippe's Oppermann — Introduction to Paging
- - [ ] Computer Science from the Bottom Up — Chapter 6. Virtual Memory
- - [ ] Dr. John T. Bell — Operating systems, Virtual Memory
- - [ ] StackOverflow — Do modern OS's use paging and segmentation?
- - [ ] StackOverflow — What is thrashing? Why does it occur?
- - [ ] Wikipedia — Memory address
- - [ ] Wikipedia — Paging
+ - [X] Operating Systems: Three Easy Pieces — Chapter 18: Paging
+ - [X] Philippe's Oppermann — Introduction to Paging
+ - [X] Computer Science from the Bottom Up — Chapter 6. Virtual Memory
+ - [X] Dr. John T. Bell — Operating systems, Virtual Memory
+ - [X] StackOverflow — Do modern OS's use paging and segmentation?
+ - [X] StackOverflow — What is thrashing? Why does it occur?
+ - [X] Wikipedia — Memory address
+ - [X] Wikipedia — Paging
  - [X] Wikipedia — Address space
- - [ ] Wikipedia — Virtual memory
- - [ ] Wikipedia — Virtual address space
- - [ ] Wikipedia — Thrashing
- - [ ] Wikipedia — Segmentation fault
- - [ ] ITPro Today — Paging Performance
- - [ ] Aleph One — Smashing The Stack For Fun And Profit
+ - [X] Wikipedia — Virtual memory
+ - [X] Wikipedia — Virtual address space
+ - [X] Wikipedia — Thrashing
+ - [X] Wikipedia — Segmentation fault
+ - [X] ITPro Today — Paging Performance
+ - [X] Aleph One — Smashing The Stack For Fun And Profit
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
