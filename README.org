@@ -148,6 +148,7 @@ what's difference between "static" and "dynamic" RAM?
  - [X] ITPro Today — Paging Performance
  - [X] Aleph One — Smashing The Stack For Fun And Profit
 *** <2020-06-23 Tue> reading on paper
+*** <2020-06-25 Thu> study openmpi
 ** question
 *** DONE Can we use AC to make the square output?
 It's okay, but the problem is that we need to build a "black box" that
