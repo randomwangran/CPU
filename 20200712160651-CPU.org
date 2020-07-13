@@ -95,7 +95,7 @@ point of view, the inputs are:
 
 Out put is the blue LEDs. To more precise, how LED flushes.
 *** <2020-06-10 Wed> review a bit of memory and register
-- a bit of memory
+- a bit of [[file:../20200613145215-virtual_memory.org][memory]]
 
   One bit of memory is built by four NAND gates, these four gates
   create a function that has two inputs and one output.
