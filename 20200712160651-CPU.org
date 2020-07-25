@@ -38,7 +38,7 @@ I don't feel very comfortable.
 - video on youtube: https://www.youtube.com/watch?v=8nzgkSlCKlo
 Follow Ben's watch was easy. I do have issue to understand how the
 breadboard's connection at first. I miss understand the wires
-parallel connected to the 1k resistor and capacitor short the circuit.
+parallel connected to the 1k [[file:../20200725114650-resistor.org][resistor]] and [[file:../20200725114640-capacitor.org][capacitor]] short the [[file:../20200725114631-circuit.org][circuit]].
 It did not.
 
 - video on youtube: https://www.youtube.com/watch?v=oFcDTblaUVs
