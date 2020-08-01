@@ -31,7 +31,7 @@ mouse, connecting it with the 5 DC voltage convert in such a way that
 I don't feel very comfortable.
 
 [[file:FIG/ini-5-voltage-in.png]]
-*** <2020-05-27 Wed> flush the LED
+*** <2020-05-27 Wed> flush the [[file:../20200730153559-led.org][LED]]
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2020-05-30 Sat 22:27]
     :END:
